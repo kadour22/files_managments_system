@@ -28,7 +28,7 @@ class CourseFileDownloadView(APIView):
             return Response({"error": str(e)}, status=500)
 
 class CourseListAPIView(APIView):
-    permission_classes = [permissions.IsAuthenticated]  # Changed to IsAuthenticated
+    permission_classes = [permissions.IsAuthenticated]
 
     def get(self, request, *args, **kwargs):
         queryset = Course.objects.all()
