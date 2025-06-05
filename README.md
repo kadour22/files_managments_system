@@ -3,10 +3,6 @@
 
 A RESTful **File Management System** built with **Django** and **Django REST Framework (DRF)**. This backend allows users to upload files, organize them into folders, and navigate a structured file system hierarchy — all through API endpoints.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Django](https://img.shields.io/badge/Django-4.2-green)
-![DRF](https://img.shields.io/badge/DRF-3.14-orange)
-
 ---
 
 ## 🧩 Features
