@@ -1,9 +1,3 @@
-Thanks! I checked your repo: [kadour22/files_managments_system](https://github.com/kadour22/files_managments_system). It’s a Django + Django REST Framework app for file and folder management — handling uploads, folder creation, and hierarchical organization.
-
-Here’s a polished `README.md` tailored to that project:
-
----
-
 ```markdown
 # 📁 Files Management System API
 
